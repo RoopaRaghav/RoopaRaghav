@@ -1,7 +1,8 @@
 
 # Still updates are in Progress.
 ### Hi there 👋
-I am Roopa and i am an enthusiastic software developer graduated in DataScience and Visualisations bootcamp from UCSD California.
+I am Roopa and I am an enthusiastic software developer graduated in Computer Science Engineering also 
+completed DataScience and Visualisations bootcamp from UCSD California.
 
 <!--
 **RoopaRaghav/RoopaRaghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
