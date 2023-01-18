@@ -8,12 +8,12 @@ I am Roopa and i am an enthusiastic software developer graduated in DataScience 
 
 
 
-- 🌱 I’m currently working on Python Programming, Tableau, and Machine Learning models.
+- 🌱 My interested areas of work would be in Python Programming, Tableau, and Machine Learning models.
 - 📫 How to reach me: tl.roopavathy@gmail.com
 - 😄 Pronouns: She/her
 
 Here are some projects I worked on during the bootcamp:
-#Final Project:
+# Final Project:
 Analysis on WomenWellbeing in 52 countries.
 
 Repos on each module in the roadmap:
@@ -28,18 +28,18 @@ Pandas
 Matplotlib
 APIs
 
-#Database Unit
+# Database Unit
 SQL
 ETL 
 SQLite
 
-#Visualization Unit 
+# Visualization Unit 
 Web Scraping
 Plotly
 Leaflet
 Tableau
 
-#Advanced Topics Unit - Data Scientist
+# Advanced Topics Unit - Data Scientist
 R—Stats
 Big Data—AWS
 Machine Learning
