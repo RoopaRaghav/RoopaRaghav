@@ -15,7 +15,7 @@ Here are some projects I worked on during the bootcamp:
 ### Final Project:
 Yet to be completed due date: 01/27/2023
 [Analysis on WomenWellbeing in 52 countries.](https://github.com/Betsy-Kalkwarf/Women-Well-Being.git)
-Branch Name: RoopaRaghav
+    - Branch Name: RoopaRaghav
 
 ### Repos on each module in the roadmap:
 
@@ -40,7 +40,7 @@ Branch Name: RoopaRaghav
 - Plotly - [BellyButton Diversity Deployment](https://rooparaghav.github.io/plotly_deploy/) 
     -   [Github Repo](https://github.com/RoopaRaghav/plotly_deploy)
 - Leaflet - [Mapping Earthquakes](https://github.com/RoopaRaghav/Mapping_Earthquakes.git)
-    -  [Interactive Maps](https://rooparaghav.github.io/Earthquake_Challenge)
+    -  [Interactive Maps](https://rooparaghav.github.io/Earthquake-Analysis-past-7Days/)
 - Tableau - [NY Bike sharing](https://github.com/RoopaRaghav/Bikesharing.git)
 
 #### Advanced Topics Unit - Data Scientist
