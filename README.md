@@ -13,9 +13,8 @@ completed DataScience and Visualisations bootcamp from UCSD California.
 
 Here are some projects I worked on during the bootcamp:
 ### Final Project:
-Yet to be completed due date: 01/27/2023
-[Analysis on WomenWellbeing in 52 countries.](https://github.com/Betsy-Kalkwarf/Women-Well-Being.git)
-    - Branch Name: RoopaRaghav
+- [Analysis on WomenWellbeing in 52 countries.](https://github.com/RoopaRaghav/FinalProject)
+    
 
 ### Repos on each module in the roadmap:
 
