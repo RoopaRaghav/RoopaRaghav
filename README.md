@@ -2,6 +2,7 @@
 ### Hi there 👋
 I am Roopa and I am an enthusiastic software developer graduated in Computer Science Engineering also 
 completed DataScience and Visualisations bootcamp from UCSD California.
+Skilled in Python, AWS-RDS, MongoDB, JavaScript, Tableau, Machine Learning models.
 
 <!--
 **RoopaRaghav/RoopaRaghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
